@@ -12,6 +12,6 @@ You will have a week and a half to do this, as we have not covered quite enough 
 # A Word for the assignment
 1. I used the inventory data set to visualize relationship between Year Constructd and Year Acquired. The visualization can be found here-https://vega.github.io/editor/#/url/vega-lite/N4IgJAzgxgFgpgWwIYgFwhgF0wBwqgegIDc4BzJAOjIEtMYBXAI0poHsDp5kTykBaADZ04JACyUAVhDYA7EABoQAEySYUqUAwBOgtBmx5CBBjQZR+NLmzaD+q9cRoAvanUYt2nHNpqyyAEwADACMAJxywrKiAO5wcADWQQEETKaCyn5kAPp+pLKYbNoAnpRQEMQgAL5KyNoJ+lA02lCCcIogcLJQbJn+aKAAHgMgAGY0cBn6AJpwSNoABADCchCY2uaYcModmMU47ehbCDhFSHo1IMUj45M76LPzCwCCUACOptrbu-uHIMenbTnDrQc6HUB7A76TA0BDtKoIqpAA
 
-2. The visualization has been deployed here with .json format under the name 
+2. The visualization has been deployed here with .json format under the name visualization.vsl.json
 
 3. The a_four.html here is my html page with the visualization and javascript initialization. 
